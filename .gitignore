@@ -1,0 +1,8 @@
+
+node_modules
+*.log
+.idea
+.DS_Store
+.bak
+web/css
+web/build

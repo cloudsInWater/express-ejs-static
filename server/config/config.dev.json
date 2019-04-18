@@ -1,0 +1,7 @@
+{
+    "onLine": 0,
+    "staticPath": "",
+    "dir": "",
+    "db": "mongodb://127.0.0.1:27017/ihomedb",
+    "urlShow":"http://localhost:3001"
+}
